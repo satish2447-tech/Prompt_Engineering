@@ -7,6 +7,7 @@ ipykernel
 tqdm
 rich
 streamlit
+altair==4.0.0
 
 
 
