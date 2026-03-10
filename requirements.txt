@@ -7,5 +7,6 @@ ipykernel
 tqdm
 rich
 streamlit
-OPENAI_API_KEY =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
+
+
 
